@@ -1,3 +1,5 @@
-# Calculadora simples
+# Simple-calculator
 
-- Bom, esse foi o meu primeiro projeto desenvolvido em Java, uma calculadora simples.
+
+- Well, this was my first project developed in Java, a simple calculator.
+
